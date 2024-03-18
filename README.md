@@ -1,3 +1,5 @@
+# Automatic Car License Plate Recognition System
+
 1. Utilized YOLO v8, a deep learning object detection model, to detect and localize vehicle  
 license plates within images or video streams captured in traffic environments.
 2. Integrated EasyOCR for optical character recognition (OCR), enabling the  
